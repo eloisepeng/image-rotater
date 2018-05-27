@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eloisepeng/image-rotater/issues"
   },
-  "homepage": "https://github.com/eloisepeng/image-rotater#readme"
+  "homepage": "https://github.com/eloisepeng/image-rotater#readme",
+  "dependencies": {
+    "jimp": "^0.2.28"
+  }
 }
