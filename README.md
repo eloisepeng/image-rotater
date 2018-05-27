@@ -1,4 +1,4 @@
-# image-rotater-eloise
+# img-rotate-eloise
 To rotate selected imgs
 
 Require "index.js" to call image-rotater module to rotate image by customize degree and quality
