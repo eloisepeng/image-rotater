@@ -1,0 +1,19 @@
+{
+  "name": "image-rotater",
+  "version": "1.0.0",
+  "description": "rotate imgs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eloisepeng/image-rotater.git"
+  },
+  "author": "Eloise Peng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eloisepeng/image-rotater/issues"
+  },
+  "homepage": "https://github.com/eloisepeng/image-rotater#readme"
+}
